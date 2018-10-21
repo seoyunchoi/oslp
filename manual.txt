@@ -3,6 +3,7 @@ mkdir test
 #폴더로 이동 
 cd test
 git init
+git pull "주소"
 #파일 추가 
 git add . #모든 것을 리스트에 추가한다
 git commit -m "내용"
