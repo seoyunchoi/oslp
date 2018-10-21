@@ -1,0 +1,13 @@
+#맨처음에 사용할 때
+mkdir test
+#폴더로 이동 
+cd test
+git init
+#파일 추가 
+git add . #모든 것을 리스트에 추가한다
+git commit -m "내용"
+git push origin master
+	git remote add origin "주소"
+
+
+
